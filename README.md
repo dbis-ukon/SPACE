@@ -6,7 +6,7 @@ SPACE (Sequence-based Path Pattern Cardinality Estimator) is a deep-learning bas
 
 To collect path patterns and compute cardinality vectors, please refer to the instructions in the README file located in the 'Generate Training Data' directory.
 
-## 2. Train the model and estimate cardinalities for path patterns
+## 2. To train the model and estimate cardinalities for path patterns
 
 - Use the `run_estimation.py` script in 'Cardinality Estimation Model' directory to train the estimator and obtain estimated cardinalities for path patterns.
 
