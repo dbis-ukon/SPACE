@@ -1,8 +1,8 @@
 # SPACE: Cardinality Estimation for Path Queries Using Cardinality-Aware Sequence-based Learning
 
-SPACE (Sequence-based Path Pattern Cardinality Estimator) is a deep-learning based approach designed to estimate the cardinalities of path patterns. Our model employs a recurrent neural network (RNN) architecture to accurately predict the cardinalities of these patterns. The proposed method, SPACE, operates in two main steps:
+SPACE (Sequence-based Path Pattern Cardinality Estimator) is a deep-learning based approach designed to estimate the cardinalities of path patterns. Our model employs a recurrent neural network (RNN) architecture to accurately predict the cardinalities of path patterns. The proposed method, SPACE, operates in two main steps:
 
-## 1. Collect the path patterns and computing cardinality vectors 
+## 1.To collect the path patterns and computing cardinality vectors 
 
 To collect path patterns and compute cardinality vectors, please refer to the instructions in the README file located in the 'Generate Training Data' directory.
 
